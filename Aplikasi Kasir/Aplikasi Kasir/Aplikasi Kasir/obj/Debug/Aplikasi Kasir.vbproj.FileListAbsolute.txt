@@ -1,0 +1,18 @@
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.exe.config
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.exe
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.pdb
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\bin\Debug\Aplikasi Kasir.xml
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.vbprojResolveAssemblyReference.cache
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormLogin.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormMenuUtama.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.Resources.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.vbproj.GenerateResource.Cache
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.exe
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.xml
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi Kasir.pdb
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormMasterAdmin.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormAbout.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormMasterPelanggan.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormMasterBarang.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormTransJual.resources
+E:\PROGRAM\VBNET\Aplikasi Kasir\Aplikasi Kasir\Aplikasi Kasir\obj\Debug\Aplikasi_Kasir.FormChangePassword.resources
